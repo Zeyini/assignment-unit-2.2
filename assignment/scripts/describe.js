@@ -158,7 +158,7 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
-
+// Fix The sign to add multiple conditions using "and" is &&. The correct way is as follows: if (temp > 39 && time >= 4) 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -171,6 +171,14 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
+
+// if the condition is correct we should console.log('enter'); - if the condition is not true we can onsole.log('no entry');
+// correct way 
+// if(minAge <= age) {
+//  console.log('entry');
+// } else {
+//  console.log(''no entry'');
+// }
 
 if(minAge <= age) {
   console.log('no entry');
