@@ -175,7 +175,7 @@ const minAge = 21;
 // if the condition is correct we should console.log('enter'); - if the condition is not true we can onsole.log('no entry');
 // correct way 
 // if(minAge <= age) {
-//  console.log('entry');
+//  console.log('enter');
 // } else {
 //  console.log(''no entry'');
 // }
