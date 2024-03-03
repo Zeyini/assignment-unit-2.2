@@ -26,10 +26,11 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+//  The variable name is created below and the value is set to Dane.
+//  The if function is checking if the name variable is equal to Mary.
+// We console.log 'Hi, Mary!' if the variable name is equal to Mary.
+// If the variable name is not equal to Mary, console.log 'How do you do?'.
+// The value of the varible name is Dane so the console would log 'How do you do?'.
 
 //CODE
 /*
@@ -45,11 +46,13 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
-
+// We have declared the variable secret 
+// We then declared the variable code and sent the value of code to 123. 
+// The if function is checking if the variable code is equal to 123. 
+// if the code is equal to 123 set the value of secret to super and multiply the value of code by 2. 
+// Then run the second function that checks if the value of code is greater than 250 if it's true set 
+// the value of secret to duper. Afterwards, console log secret which should return the value of secret equal to super.
+// since the value of code is less 246 which is less than 250
 //CODE
 /*
 let secret;
@@ -70,10 +73,15 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We declared the variable isStudent and set the value to true.
+// We declared the varaible age and set the value to 34.
+// We declared the varaible zip and set the value to 55407.
+// The if function is checking if isStudent value is true and the zip is greater than 80000.
+// if the condition isStudent is true and the zip is greater is greater 80000 console log `You're a student on the West Coast!`.
+// if the first condition is not true check the second condition which is checking if isStudent is equal to false or the age is less than 30.
+// if the second condition is true console log What are your hobbies?'. If the second conditon is not true check 
+// the third condition which is checking if the variable isStudent is equal to true. If the third conditon is true, which it is, console log Welcome to Prime!'.
+// if the first,second and third condition is not true console log How about the weather?'.
 
 //CODE
 /*
